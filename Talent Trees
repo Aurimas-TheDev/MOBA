@@ -1,1 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T18:18:54.696Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.4" etag="PiyB6XiVQLBlfSzp8wnq" type="github"><diagram id="CwsI4NMfqtW38n_6u1tF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-09T18:58:41.307Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="nZsCFNKWSHJDOFC33Tmw" version="20.0.4" type="github">
+  <diagram id="CwsI4NMfqtW38n_6u1tF" name="Page-1">
+    <mxGraphModel dx="1613" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mx97YetBejjQSLlipv9R-50" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="10" y="50" width="590" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="mx97YetBejjQSLlipv9R-2" value="Wizzard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="1870" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mx97YetBejjQSLlipv9R-8" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="163" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mx97YetBejjQSLlipv9R-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="248" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mx97YetBejjQSLlipv9R-17" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="263" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mx97YetBejjQSLlipv9R-22" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Increases damage of all spells against targets with less than 35% health by 6%.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="358" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mx97YetBejjQSLlipv9R-23" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Any time you score 2 non-periodic spell criticals in a row you have a 33% chance the next Pyroblast spell cast within 10 sec will be instant cast.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="180" y="358" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mx97YetBejjQSLlipv9R-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="mx97YetBejjQSLlipv9R-24" target="mx97YetBejjQSLlipv9R-164">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mx97YetBejjQSLlipv9R-24" value="Hurls an immense fiery boulder that causes 141 to 187 Fire damage and an additional 56 Fire damage over 12 sec." style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="320" y="248" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mx97YetBejjQSLlipv9R-25" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Meteor Strike has a 10% of chance to stun a target for 2 seconds.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="358" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mx97YetBejjQSLlipv9R-26" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="373" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mx97YetBejjQSLlipv9R-45" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="473" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mx97YetBejjQSLlipv9R-191" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="458" as="sourcePoint" />
+            <mxPoint x="520" y="458" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mx97YetBejjQSLlipv9R-51" value="Fire" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="275" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mx97YetBejjQSLlipv9R-134" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="248" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mx97YetBejjQSLlipv9R-155" value="Reduces the cooldown of Fire Blast by.." style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="40" y="148" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mx97YetBejjQSLlipv9R-156" value="Your critical strike from spells causes the target to burn for an additional 8% of your damage dealt for 4 secs" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="40" y="248" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mx97YetBejjQSLlipv9R-161" value="Gives a 5% chance when hit by physical attack to increase your movement speed by 50% for next 8 secs." style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="180" y="248" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mx97YetBejjQSLlipv9R-162" value="Increases the critical strike chance of your fire spells by..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="180" y="148" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mx97YetBejjQSLlipv9R-163" value="Reduces the casting time of your Fireball spell by..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="320" y="148" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mx97YetBejjQSLlipv9R-164" value="Every percentage of missing health is converted to additional spell power gain." style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="320" y="458" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mx97YetBejjQSLlipv9R-170" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#999999;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="460" y="148" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mx97YetBejjQSLlipv9R-195" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#999999;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="460" y="248" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mx97YetBejjQSLlipv9R-196" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#999999;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="460" y="458" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mx97YetBejjQSLlipv9R-197" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#999999;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="180" y="458" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mx97YetBejjQSLlipv9R-198" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#999999;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="40" y="458" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
